@@ -16,6 +16,14 @@
   "bugs": {
     "url": "https://github.com/pmoreno-dev/servidor_web_mode/issues"
   },
-  "homepage": "https://github.com/pmoreno-dev/servidor_web_mode#readme"
-}
+  "homepage": "https://github.com/pmoreno-dev/servidor_web_mode#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "jsonwebtoken": "^9.0.2",
+    "moongose": "^8.19.1",
+    "express": "^5.1.0",
+    "dotenv": "^17.2.3"
+  }
 
+}
