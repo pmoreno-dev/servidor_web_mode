@@ -1,0 +1,28 @@
+{
+  "name": "servidor_web_mode",
+  "version": "1.0.0",
+  "description": "servidor web mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmoreno-dev/servidor_web_mode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmoreno-dev/servidor_web_mode/issues"
+  },
+  "homepage": "https://github.com/pmoreno-dev/servidor_web_mode#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.1"
+  }
+}
